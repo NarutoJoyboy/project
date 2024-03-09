@@ -34,6 +34,7 @@ export default function App() {
             <Text>{item.description}</Text>
             <Text>{item.title}</Text>
             <Text>{item.category}</Text>
+            <Text>my nmae is Prem</Text>
 
           </View>
         </View>
